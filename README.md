@@ -1,6 +1,7 @@
-# PowerShell Configuration for Dynamic Themes, Aliases, and System Management
+# PowerShell Configuration for Dynamic Themes, Aliases, and System Management with some python tools
 
 This configuration file is designed to provide a highly customizable PowerShell experience. It includes functionality for dynamic theme switching with Oh My Posh, aliases for frequently used commands, system information functions, network utilities, and advanced fuzzy search capabilities for files and directories.
+also this repo have some pyhton tools such as vidoe downloader and network analysis tool.
 
 ## Table of Contents
 
